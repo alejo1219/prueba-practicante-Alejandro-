@@ -1,1 +1,8 @@
+bash 
+Copiar 
+Editar 
+/target
 *.class
+*.log
+.idea/
+*.iml
